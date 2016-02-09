@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Setari</string>
+    <string name="false_button">Fals</string>
+    <string name="true_button">Adevarat</string>
+    <string name="question_text">Theodor ?</string>
+    <string name="correct_toast">Corect!</string>
+    <string name="incorrect_toast">Incorect</string>
+</resources>
